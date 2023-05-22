@@ -135,4 +135,7 @@
   <data name="Property_Note" xml:space="preserve">
     <value>Note</value>
   </data>
+  <data name="Property_Code" xml:space="preserve">
+    <value>Code</value>
+  </data>
 </root>
