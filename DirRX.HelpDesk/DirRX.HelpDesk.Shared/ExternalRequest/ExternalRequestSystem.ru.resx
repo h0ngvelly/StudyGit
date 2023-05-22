@@ -58,25 +58,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
-  </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Обращение</value>
+    <value>Внешнее обращение</value>
   </data>
   <data name="AccusativeDisplayName" xml:space="preserve">
-    <value>Обращение</value>
+    <value>Внешнее обращение</value>
   </data>
   <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Обращения</value>
-  </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Дата создания</value>
-  </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
-  </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Номер обращения</value>
+    <value>Внешнее обращения</value>
   </data>
 </root>
