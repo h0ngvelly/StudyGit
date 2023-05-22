@@ -67,4 +67,10 @@
   <data name="CollectionDisplayName" xml:space="preserve">
     <value>Внешнее обращения</value>
   </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
+  </data>
 </root>
