@@ -21,8 +21,7 @@
     "Header": {
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
-    },
-    "Tabs": []
+    }
   },
   "Dependencies": [
     {
@@ -47,6 +46,10 @@
     {
       "ItemId": "db4c6d41-8d84-490a-bf28-422efea099fa",
       "PreviousItemId": "a54e88af-ae50-43b6-97e7-be69fbbc2a34"
+    },
+    {
+      "ItemId": "91129705-cc95-45cd-870c-ac0175afaecc",
+      "PreviousItemId": "db4c6d41-8d84-490a-bf28-422efea099fa"
     }
   ],
   "IconResourcesKeys": [],
@@ -67,7 +70,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 6
     },
     {
       "Type": "DomainApi",
